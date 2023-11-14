@@ -23,6 +23,8 @@ if you'r realy lucky you could guess the number in your first try and you could 
 
 ## Alligator game
 
+This was probably the second big task and quite fun to, it was not something new, but with C# I had to
+think abit different, but not to difficult.
 
 ### What it does?
 
@@ -30,3 +32,11 @@ Well it's a relativly simple program, tried using what I've learned of C# so far
 (<, >, =) these might resemble aligator teeth and that's with purpose. When you start the program your aske what's 
 bigger of two numbers and you'r either right or wrong. and obviously we had to include a score system so you can keep 
 tract of how your doing.
+
+## The task at hand
+
+This was absolutly a taste for what to come forwad for me, I can't say it was hard but interessting. The way I moved my way throught the task's until the last, the one I had to look up.
+
+## What alternatives
+
+So before I looked up the solution of the the right adjustment I read some atricles using .format() with {0, -10}, {0, 10}, {2, 5}... and for what I was using it for it just wouldn't work, maybe because it's used in strings or with grids, but I was stumped, and now we're here.
